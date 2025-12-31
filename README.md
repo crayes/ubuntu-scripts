@@ -300,6 +300,6 @@ Para dúvidas ou problemas:
 
 ---
 
-**Desenvolvido para: Rayes Fagundes Advogados Associados**  
+**Desenvolvido para ATSI Informática **  
 **Administrador: Celso Nassif**  
 **Data: 2025**
