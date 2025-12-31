@@ -300,6 +300,6 @@ Para dúvidas ou problemas:
 
 ---
 
-**Desenvolvido para ATSI Informática **  
+**Desenvolvido para ATSI Informática**  
 **Administrador: Celso Nassif**  
 **Data: 2025**
