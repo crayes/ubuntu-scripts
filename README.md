@@ -301,5 +301,5 @@ Para dúvidas ou problemas:
 ---
 
 **Desenvolvido para: Rayes Fagundes Advogados Associados**  
-**Administrador: Nassif**  
-**Data: 2024**
+**Administrador: Celso Nassif**  
+**Data: 2025**
